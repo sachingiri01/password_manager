@@ -1,0 +1,6 @@
+do npm run build in  backend folder
+then npm run dev in main folder ofthis
+project to run the frontend and backend together
+
+start mongodb for better
+u can look into the passwords named folder in mongodb 

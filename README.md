@@ -1,8 +1,37 @@
-# React + Vite
+# 🔐 MERN Stack Password Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack Password Manager application built using the MERN (MongoDB, Express, React, Node.js) stack. Users can securely store, manage, and retrieve their passwords in an intuitive and responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 📁 Create, Read, Update, Delete (CRUD) passwords
+- 🧭 Search and filter stored credentials
+- 📱 Responsive design for mobile and desktop
+
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend:
+- React.js
+- Tailwind CSS / Bootstrap (customize as per your setup)
+- React Router DOM
+
+
+### Backend:
+- Node.js
+- Express.js
+- MongoDB (with Mongoose)
+
+
+---
+
+## 📦 Installation & Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/password-manager.git
+cd password-manager

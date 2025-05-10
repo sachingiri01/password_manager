@@ -33,5 +33,5 @@ A full-stack Password Manager application built using the MERN (MongoDB, Express
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/password-manager.git
+git clone https://github.com/sachingiri01/password_manager.git
 cd password-manager
